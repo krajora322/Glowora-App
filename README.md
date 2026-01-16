@@ -15,15 +15,18 @@
 
 - **Live App Link:** [Frontend](https://glowora-app-gamma.vercel.app/) |   
 - **Screenshots / GIFs:**  
-  - **Home Page**  
+  - **Home Page**
+    
   
   <img width="1879" height="861" alt="image" src="https://github.com/user-attachments/assets/cbe8aeff-d1d6-41c0-b260-9274bf9eac50" />
 
-  - **Product Listing with Filters**  
+  - **Product Listing with Filters**
+      
   
   <img width="1901" height="871" alt="image" src="https://github.com/user-attachments/assets/a88ee30e-a5c9-487a-8763-a84882f4bf59" />
 
-  - **Shopping Cart**  
+  - **Shopping Cart**
+    
   
   <img width="1885" height="847" alt="image" src="https://github.com/user-attachments/assets/aa80a7d0-180b-46ad-aa44-999be5ff1497" />
 
