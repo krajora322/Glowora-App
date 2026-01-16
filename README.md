@@ -13,7 +13,8 @@
 
 ## 2. Demo & Links
 
-- **Live App Link:** [Frontend](https://glowora-app-gamma.vercel.app/) |   
+- **Live App Link:** [Frontend](https://glowora-app-gamma.vercel.app/)
+   
 - **Screenshots / GIFs:**  
   - **Home Page**
     
